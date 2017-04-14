@@ -1,5 +1,5 @@
 const pressed = [];
-const secretCode = "nycda";
+const secretCode = "password";
 
 window.addEventListener("keyup", (e) => {
 	console.log(e.key);
